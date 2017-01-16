@@ -1,8 +1,13 @@
-__Las ayudas sociales, las más demandadas por los madrileños__
+#__Las ayudas sociales, las más demandadas por los madrileños__
+
 Madrid Salud es el órgano del Ayuntamiento de Madrid que más dinero ha gastado en ayudas a los ciudadanos en el primer semestre de 201El Ayuntamiento de Madrid dispone de 18 Juntas Municipales de distritos repartidas en la capital, así como de otros órganos gestores como Madrid Salud, Cultura y Deportes y Agencia para el empleo de Madrid, entre otros, para poder tramitar estas ayudas.
+
 Si tenemos en cuenta el fichero de datos de subvenciones de 2016, publicado por el Ayuntamiento, observamos que la cuantía total de subvenciones es aproximadamente de 7,1 millones de euros. La entidad que más subvenciones otorgó en este periodo fue la Junta Municipal de Puente de Vallecas, que aportó un total de 587 ayudas.  Sin embargo, esta no es la que más dinero gastó, ya que Madrid Salud llegó aportar 1,1 millón de euros en subvenciones.
+
 Abril fue el mes en el que más subvenciones se emitieron, en contraposición con el mes de enero que registró menor cantidad. Pero el desembolso mayor se produjo en mayo con 2,3 millones de euros.
+
 El ayuntamiento diferencia dos tipos de objetos de ayuda: las de ayudas familiares, indemnizaciones y similares –que son las mayoritarias-  y las de cobertura de costes o del déficit. Dentro de las primeras las que más han aparecido son las de seguridad y protección social, seguidas de vivienda y urbanismo. Mientras que en las de cobertura de costes o del déficit encabeza la lista las de cultura.
+
 En cuanto al importe destinado a cada objeto de ayuda, hay que destacar que la mayor cuantía se la llevan las de ayudas familiares, indemnizaciones y similares, con una cantidad que ronda los 4,6 millones de euros. Una cifra que supone el doble del importe que perciben las de cobertura de costes o del déficit.
 El Ayuntamiento ha destinado más dinero en ayudas de carácter de seguridad y protección social, llegando a los 3 millones de euros. Seguido de otros servicios comunitarios y sociales con 1,8 millones de euros. El resto del presupuesto se lo llevan cultura, promoción social, vivienda y urbanismo. Sanidad es la partida en la que menos dinero se destinó. 
 Existen varias formas de procedimiento de concesión de subvenciones: ayuda social, concesión directa y concurrencia competitiva. El trámite más habitual de concesión de subvenciones es el de concurrencia competitiva, según el artículo 22 del reglamento de la LGS. Pero los datos del Ayuntamiento indican que hubo una mayor cantidad de ayudas cedidas por el procedimiento de ayuda social. Sin embargo, las concesiones por ayuda social no han sido las que más importe han recibido, sino que las de concesión directa lideran la lista con una cuantía próxima a los 4 millones de euros.
